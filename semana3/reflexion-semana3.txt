@@ -1,0 +1,11 @@
+El registro de cambios en los proyectos de software es una práctica esencial que
+permite a los equipos de trabajo conocer en todo momento qué se modificó, quién
+lo hizo y cuándo ocurrió cada cambio. Sin este registro sería casi imposible trabajar
+en equipo de forma organizada porque varias personas podrían modificar los mismos
+archivos sin saber qué hicieron los demás. Git resuelve este problema guardando
+un historial completo de versiones que permite comparar estados anteriores del proyecto
+y volver atrás si algo sale mal. Además, tener trazabilidad en el código genera
+confianza dentro del equipo porque cualquier error puede rastrearse hasta su origen
+y corregirse sin perder el trabajo realizado. En proyectos grandes esta herramienta
+se vuelve aún más importante porque la cantidad de cambios diarios puede ser enorme
+y sin Git sería imposible mantener el orden y la estabilidad del software.

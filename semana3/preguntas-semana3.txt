@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+Git es un sistema de control de versiones distribuido que permite llevar un historial detallado de todos los cambios realizados en los archivos de un proyecto.
+
+Pregunta 2:
+Respuesta: B
+Un repositorio es el espacio donde se almacenan todos los archivos y el historial de cambios de un proyecto, ya sea de forma local o en la nube.
+
+Pregunta 3:
+Respuesta: B
+El comando git add . prepara todos los archivos modificados para ser incluidos en el siguiente commit, añadiéndolos al área de staging.
+
+Pregunta 4:
+Respuesta: A
+El comando git commit crea un punto de control en el historial del proyecto guardando los cambios preparados junto con un mensaje descriptivo.
